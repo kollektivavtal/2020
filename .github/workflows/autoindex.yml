@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: kollektivavtal/autoindex@v1
+      - uses: kollektivavtal/autoindex@v2
         with:
           base_url: "https://kollektivavtal.github.io/2020/"
 
