@@ -23,6 +23,7 @@ jobs:
           echo "github.head_ref = ${{ github.head_ref }}"
           echo "github.ref = ${{ github.ref }}"
 
+      - run: git checkout ${{ github.head_ref }}
       - uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
