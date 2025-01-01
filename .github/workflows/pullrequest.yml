@@ -18,6 +18,11 @@ jobs:
         with:
           year: ${{ github.event.repository.name }}
 
+      - name: Debug info
+        run: |
+          echo "github.head_ref = ${{ github.head_ref }}"
+          echo "github.ref = ${{ github.ref }}"
+
       - uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
