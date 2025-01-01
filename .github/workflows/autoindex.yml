@@ -16,7 +16,7 @@ jobs:
 
       - uses: kollektivavtal/autoindex@v7
         with:
-          year: "2020"
+          year: ${{ github.repository.name }}
 
       - uses: actions-js/push@master
         with:
