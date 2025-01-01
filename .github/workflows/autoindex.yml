@@ -1,0 +1,23 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  autoindex:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: kollektivavtal/autoindex@v1
+        with:
+          base_url: "https://kollektivavtal.github.io/2020/"
+
+      - uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
