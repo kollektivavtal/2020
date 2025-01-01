@@ -26,5 +26,5 @@ jobs:
       - uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.event_name == 'pull_request' && github.head_ref || github.ref }}
+          branch: ${{ github.head_ref }}
           rebase: true
