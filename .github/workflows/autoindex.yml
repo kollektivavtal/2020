@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: kollektivavtal/autoindex@main
+      - uses: kollektivavtal/autoindex@v6
         with:
           year: "2020"
 
