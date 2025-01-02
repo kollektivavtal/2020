@@ -17,6 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: kollektivavtal/autoindex@v8
+      - uses: kollektivavtal/autoindex@v9
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           year: ${{ github.event.repository.name }}
