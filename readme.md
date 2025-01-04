@@ -12,3 +12,5 @@
 ## Hotell- och Restaurangavtalet
 
 * https://www.hrf.net/kollektivavtal/
+
+## Plåt- och Ventilationsavtalet
