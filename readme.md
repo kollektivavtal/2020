@@ -14,3 +14,5 @@
 * https://www.hrf.net/kollektivavtal/
 
 ## Plåt- och Ventilationsavtalet
+
+* https://www.pvforetagen.se/medlemsstod/arbetsratt--forhandling/kollektivavtal/plat--och-ventilationsavtalet/
