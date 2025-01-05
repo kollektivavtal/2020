@@ -20,3 +20,7 @@
 ## Plåt- och Ventilationsavtalet
 
 * https://www.pvforetagen.se/medlemsstod/arbetsratt--forhandling/kollektivavtal/plat--och-ventilationsavtalet/
+
+## Public service-avtalet
+
+* https://www.sjf.se/vara-kollektivavtal/public-service-avtal
