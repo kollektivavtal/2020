@@ -13,6 +13,10 @@
 
 * https://www.hrf.net/kollektivavtal/
 
+## Måleriavtalet
+
+* https://malare.nu/sites/default/files/2021-08/kollektivavtal_2020-2023.pdf
+
 ## Plåt- och Ventilationsavtalet
 
 * https://www.pvforetagen.se/medlemsstod/arbetsratt--forhandling/kollektivavtal/plat--och-ventilationsavtalet/
