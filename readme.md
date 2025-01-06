@@ -18,6 +18,11 @@
 
 * https://www.hrf.net/kollektivavtal/
 
+## Idrottsavtalet
+
+* https://www.fastighets.se/siteassets/kollektivavtal/avtal-2020/2401-bransch--och-loneavtal-idrott-arbetare.pdf
+* https://www.arbetsgivaralliansen.se/om-oss/vi-tycker/avtalsrorelsen-2020/avtal-klart-for-bransch-idrott/
+
 ## Måleriavtalet
 
 * https://malare.nu/sites/default/files/2021-08/kollektivavtal_2020-2023.pdf
