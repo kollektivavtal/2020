@@ -23,6 +23,12 @@
 * https://www.fastighets.se/siteassets/kollektivavtal/avtal-2020/2401-bransch--och-loneavtal-idrott-arbetare.pdf
 * https://www.arbetsgivaralliansen.se/om-oss/vi-tycker/avtalsrorelsen-2020/avtal-klart-for-bransch-idrott/
 
+## Kafferosteri & Kryddfabriker
+
+* https://www.livsmedelsforetagen.se/app/uploads/2022/04/kafferosterier-2020-2021-06-04.pdf
+* https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
+* https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
+
 ## Måleriavtalet
 
 * https://malare.nu/sites/default/files/2021-08/kollektivavtal_2020-2023.pdf
