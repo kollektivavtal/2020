@@ -41,6 +41,11 @@
 
 * https://www.sjf.se/vara-kollektivavtal/public-service-avtal
 
+## Spisbrödsavtalet
+
+* https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
+* https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/spisbrod_webb.pdf
+
 ## Tunnbrödsavtalet
 
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tunnbrod_webb.pdf
