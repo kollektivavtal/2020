@@ -40,3 +40,7 @@
 ## Public service-avtalet
 
 * https://www.sjf.se/vara-kollektivavtal/public-service-avtal
+
+## Tunnbrödsavtalet
+
+* https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tunnbrod_webb.pdf
