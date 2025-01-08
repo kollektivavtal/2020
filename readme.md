@@ -48,6 +48,7 @@
 
 ## Sågverksavtalet
 
+* https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Sagverksindustrin-Sveriges-Skogsindustrier/
 * https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/sveriges_skogsind_sagverk/2020/sveriges-skogsindustrier-sagverksindustrin-allmanna-anstallningsvillkor-2020-2023.pdf
 
 ## Tunnbrödsavtalet
