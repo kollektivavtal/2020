@@ -46,6 +46,10 @@
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/spisbrod_webb.pdf
 
+## Sågverksavtalet
+
+* https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/sveriges_skogsind_sagverk/2020/sveriges-skogsindustrier-sagverksindustrin-allmanna-anstallningsvillkor-2020-2023.pdf
+
 ## Tunnbrödsavtalet
 
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tunnbrod_webb.pdf
