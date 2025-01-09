@@ -14,6 +14,11 @@
 
 * https://www.unionen.se/kollektivavtal/arbetsgivaralliansen-fotbollsspelare
 
+## Dalslands Kanal
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/kanalbolagen/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/sjo/ka-dalslands-kanal-2020-2023-med-omslag.pdf
+
 ## Hotell- och Restaurangavtalet
 
 * https://www.hrf.net/kollektivavtal/
