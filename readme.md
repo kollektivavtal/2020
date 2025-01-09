@@ -18,6 +18,11 @@
 
 * https://www.hrf.net/kollektivavtal/
 
+## Göta Kanal
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/kanalbolagen/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/sjo/ka-gota-kanal-2020-2023-med-omslag.pdf
+
 ## Idrottsavtalet
 
 * https://www.fastighets.se/siteassets/kollektivavtal/avtal-2020/2401-bransch--och-loneavtal-idrott-arbetare.pdf
