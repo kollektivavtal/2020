@@ -23,6 +23,12 @@
 * https://www.fastighets.se/siteassets/kollektivavtal/avtal-2020/2401-bransch--och-loneavtal-idrott-arbetare.pdf
 * https://www.arbetsgivaralliansen.se/om-oss/vi-tycker/avtalsrorelsen-2020/avtal-klart-for-bransch-idrott/
 
+## Järnvägsinfrastrukturavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2022/jarnvagsinfrastruktur/kollektivavtal-jarnvagsinfrastruktur-2020-2023_bok.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/jarnvagsinfra/jarnvagsinfra_2020-12-04.pdf
+
 ## Kafferosteri & Kryddfabriker
 
 * https://www.livsmedelsforetagen.se/app/uploads/2022/04/kafferosterier-2020-2021-06-04.pdf
