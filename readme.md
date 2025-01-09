@@ -57,6 +57,13 @@
 
 * https://www.sjf.se/vara-kollektivavtal/public-service-avtal
 
+## Samhallavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/samhall/aktuella-avtal/
+* https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/samhallavtalet-2020-2023.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/samhall/kollektivavtal-samhall-2020-2023.pdf
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/samhall/bilagor-till-kollektivavtal-samhall-20202023.pdf
+
 ## Spisbrödsavtalet
 
 * https://www.livs.se/arbetsplats-och-avtalsfragor/kollektivavtal/kollektivavtalen-som-pdf-filer/
