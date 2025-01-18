@@ -74,6 +74,11 @@
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Sagverksindustrin-Sveriges-Skogsindustrier/
 * https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/sveriges_skogsind_sagverk/2020/sveriges-skogsindustrier-sagverksindustrin-allmanna-anstallningsvillkor-2020-2023.pdf
 
+## Tjänstemannaavtal Träindustri
+
+* https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Traindustriavtalet-TMF/
+* https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/tra_mobelindustrifor_tmf/2020/tra--och-mobelindustriforbundet-traindustriavtalet-2020-2023.pdf
+
 ## Tunnbrödsavtalet
 
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tunnbrod_webb.pdf
