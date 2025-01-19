@@ -19,6 +19,11 @@
 
 * https://www.unionen.se/kollektivavtal/arbetsgivaralliansen-fotbollsspelare
 
+## Energiavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/energi/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/energi/branschavtal-energi-2020-2023.pdf
+
 ## Dalslands Kanal
 
 * https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/kanalbolagen/aktuella-avtal/
