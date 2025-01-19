@@ -43,6 +43,7 @@
 * https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2022/jarnvagsinfrastruktur/kollektivavtal-jarnvagsinfrastruktur-2020-2023_bok.pdf
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/jarnvagsinfra/jarnvagsinfra_2020-12-04.pdf
+* https://www.st.org/sa-forhandlar-fackforbundet-st-om-dina-villkor/avtalsrorelse-sa-arbetar-st-med-att-forbattra-12-3-0
 
 ## Kafferosteri & Kryddfabriker
 
