@@ -29,6 +29,11 @@
 * https://www.seko.se/avtal/sekos-avtalsomraden/ovriga-avtal/kanalbolagen/aktuella-avtal/
 * https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2020/sjo/ka-dalslands-kanal-2020-2023-med-omslag.pdf
 
+## Flygplatsavtalet
+
+* https://www.saco.se/fortroendevald/lokalt-fackligt-arbete/lokala-akademikerforeningar/kommun-region/akademikeralliansen/avtal1/
+* https://www.saco.se/globalassets/lokala-akademikerforeningar/kommun-och-region/akademikeralliansen/dokument/avtal-stadgar-pension/avtal-bransch-flygplatser.pdf
+
 ## Hotell- och Restaurangavtalet
 
 * https://www.hrf.net/kollektivavtal/
