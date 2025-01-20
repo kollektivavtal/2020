@@ -94,7 +94,7 @@
 
 * https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/avtal-2020/material-avtal-2020/tunnbrod_webb.pdf
 
-## Vatten och miljö
+## Vatten- och miljöavtalet
 
 * https://www.saco.se/fortroendevald/lokalt-fackligt-arbete/lokala-akademikerforeningar/kommun-region/akademikeralliansen/avtal1/
 * https://www.saco.se/globalassets/lokala-akademikerforeningar/kommun-och-region/akademikeralliansen/dokument/avtal-stadgar-pension/avtal-bransch-vatten-och-miljo.pdf
