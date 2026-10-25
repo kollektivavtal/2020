@@ -199,6 +199,16 @@
 * https://www.naturvetarna.se/rad-och-stod/Kollektivavtal/avtal-privat-sektor/Sagverksindustrin-Sveriges-Skogsindustrier/
 * https://www.naturvetarna.se/globalassets/_avtalsarkiv/privata-avtal/sveriges_skogsind_sagverk/2020/sveriges-skogsindustrier-sagverksindustrin-allmanna-anstallningsvillkor-2020-2023.pdf
 
+## Tidningsavtalet
+
+### Förbund
+
+- [GS-facket](https://fackforbund.github.io/gs-facket/)
+
+### Källor
+
+* https://www.gsfacket.se/globalassets/mina-sidor/dokument/kollektivavtal-2020-2023/kollektivavtalet_tidningsavtalet_gs_tnm38_2020-2023-till-gs.pdf
+
 ## Tjänstemannaavtal Träindustri
 
 ### Förbund
